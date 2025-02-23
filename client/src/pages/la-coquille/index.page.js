@@ -19,6 +19,7 @@ export default function ReservationPage(props) {
       title = "";
       description = "";
   }
+
   return (
     <>
       <Head>
