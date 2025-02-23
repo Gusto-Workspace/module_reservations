@@ -41,7 +41,7 @@ export default function HomePage(props) {
         </> */}
       </Head>
 
-      <div></div>
+      <div>Hello World</div>
     </>
   );
 }
